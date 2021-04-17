@@ -14,15 +14,15 @@
 
 
 ## Run Instructions
-./wsu-pub-crypt -genkey
-./wsu-pub-crypt -e -k pubkey.txt -in ptext.txt -out ctext.txt
-./wsu-pub-crypt -d -k prikey.txt -in ctext.txt -out dtxt.txt
+- ./wsu-pub-crypt -genkey
+- ./wsu-pub-crypt -e -k pubkey.txt -in ptext.txt -out ctext.txt
+- ./wsu-pub-crypt -d -k prikey.txt -in ctext.txt -out dtxt.txt
 
 
 ## Author
 ### 👤 Yekaalo Habtemichael
 * Github: [@ymikea](https://github.com/ymikea)
-* Email: [@y.habtemichael](y.habtemichael@wsu.edu)
+* Email: [@y.habtemichael](mailto:y.habtemichael@wsu.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 ## Implementation
