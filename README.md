@@ -22,7 +22,7 @@
 ## Author
 ### 👤 Yekaalo Habtemichael
 * Github: [@ymikea](https://github.com/ymikea)
-* Email: [@y.habtemichael](mailto:y.habtemichael@wsu.edu?subject=[GitHub]%20Source%20Han%20Sans)
+* Email: [@y.habtemichael](mailto:y.habtemichael@wsu.edu)
 
 
 ## Implementation
